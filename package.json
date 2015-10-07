@@ -149,6 +149,19 @@
             ]
         },
         {  
+            "name":"Queueable",
+            "file_name":"Queueable.cls",
+            "description":"A Queueable class",
+            "author":"Kxa422",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"MyApexClass"
+                }
+            ]
+        },
+        {  
             "name":"Schedulable",
             "file_name":"SchedulableApexClass.cls",
             "description":"A Schedulable class",
